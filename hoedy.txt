@@ -4,4 +4,5 @@ tengo 26 años de edad.
 me gusta hacer tortas.
 me gusta hacer pan.
 hola mundo de salida
-porvando gi t commit -a directo.
+probando git commit -a directo.
+probando git commit -am "prueba mas"
