@@ -6,3 +6,4 @@ me gusta hacer pan.
 hola mundo de salida
 probando git commit -a directo.
 probando git commit -am "prueba mas"
+hacer una prueba con git commit -av
