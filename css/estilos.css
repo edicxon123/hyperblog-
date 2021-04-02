@@ -1,6 +1,8 @@
 body 
 {
-    color: black;
+    color: #154615;
     text-align: center; 
     font-family: Arial; 
+    padding: 4px;
+    margin: 5px;
 }
