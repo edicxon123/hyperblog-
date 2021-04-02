@@ -1,6 +1,14 @@
 body 
 {
-    color: black;
+    color: rgb(209, 71, 71);
     text-align: center; 
     font-family: Arial; 
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#cabesera
+{
+    background: #33a;
 }
